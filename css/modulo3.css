@@ -1,0 +1,17 @@
+body{
+	background-color: #FFFFFF;
+	margin: 0;
+}
+nav{
+	background-color: #749D9D; 
+}
+nav a{
+	color: black;
+}
+#chicken, #beef, #sushi{
+	background-color: #749F5D;
+	margin-top: 5px;
+}
+ul{
+	background-color: #ca9b22;
+}
